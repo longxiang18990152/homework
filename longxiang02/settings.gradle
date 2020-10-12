@@ -1,0 +1,2 @@
+rootProject.name='tyl'
+include ':app'
