@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_product"
+        android:icon="@mipmap/product"
+        android:orderInCategory="100"
+        android:title="商品" />
+    <item
+        android:id="@+id/menu_shopcar"
+        android:icon="@mipmap/shopcar"
+        android:orderInCategory="100"
+        android:title="购物车" />
+</menu>
