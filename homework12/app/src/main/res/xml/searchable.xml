@@ -1,0 +1,7 @@
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="龙祥的商城"
+    android:hint="@string/please_input"
+    android:inputType="text"
+    android:searchButtonText="@string/search"
+    android:searchMode="queryRewriteFromData"
+    />
